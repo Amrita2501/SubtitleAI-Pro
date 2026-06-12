@@ -205,7 +205,7 @@ For issues and questions:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/rajm012/subtitleai-pro.git
+   git clone https://github.com/Amrita2501/SubtitleAI.git
    cd subtitleai-pro
    ```
 
