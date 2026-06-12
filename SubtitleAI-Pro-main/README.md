@@ -79,7 +79,7 @@ Instead of commonly blocked platforms, try:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/rajm012/SubtitleAI-Pro.git
+   git clone https://https://github.com/Amrita2501/SubtitleAI-Pro.git
    cd SubtitleAI-Pro
    ```
 
